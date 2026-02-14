@@ -2,8 +2,8 @@
   <h1>👋 Seydnealy – Fullstack Developer</h1>
   
   <p>
-    <strong>Building secure backends + modern frontends & mobile apps</strong><br>
-    Spring Boot | Angular | Django | DRF | React | Flutter | Java | Python
+    <strong>Building secure enterprise backends + modern Angular frontends</strong><br>
+    Spring Boot | Angular | Java | TypeScript
   </p>
 
   <p>
@@ -20,48 +20,52 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Secure+APIs+%26+Backends;Angular+%26+React+Frontends;Flutter+Mobile+Apps;Fullstack+Travel+%26+Booking+Systems;Ready+for+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Secure+Spring+Boot+APIs;Modern+Angular+Frontends;JWT+%26+Role-Based+Auth;Fullstack+Enterprise+Apps;Ready+for+Freelance+Gigs" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me
-Fullstack developer with strong experience in **Java/Spring Boot** and **Python/Django + DRF**.  
-I build secure, scalable REST APIs, authentication systems (JWT/OAuth), and complete applications with modern frontends (Angular/React) and cross-platform mobile (Flutter).  
-Clean code, fast delivery using AI tools, good documentation.
+Fullstack developer specializing in **Java + Spring Boot** backends and **Angular** frontends.  
+I build secure, scalable REST APIs, authentication systems (JWT/OAuth), role-based dashboards, and complete enterprise-grade applications with clean, well-documented code.  
+Fast delivery, good communication, attention to detail.
 
-📍 Based in Nouakchott, Mauritania (GMT timezone – good overlap with Europe/US)
+📍 Based in Nouakchott, Mauritania (GMT timezone – perfect overlap with Europe & US clients)
 
 ### 🛠️ Skills
-- **Backend**: Java, Spring Boot, Spring Security + JWT, Spring Data JPA, Django, Django REST Framework (DRF), PostgreSQL/MySQL/SQLite
-- **Frontend**: Angular (preferred), React, TypeScript, RxJS, Reactive Forms, Angular Material / Tailwind
-- **Mobile**: Flutter (cross-platform apps connected to APIs)
-- **Other**: Git/GitHub, REST API design, JWT/OAuth, Deployment (Render/Railway), AI-assisted development, Testing
+- **Backend**: Java, Spring Boot, Spring Security + JWT, Spring Data JPA, REST API design, PostgreSQL/MySQL
+- **Frontend**: Angular (preferred), TypeScript, RxJS, Reactive Forms, Angular Material, Tailwind CSS
+- **Other**: Git/GitHub, Docker basics, Deployment (Render/Railway/Heroku/AWS), Testing (JUnit), Clean Architecture
 
 ### 📂 Featured Projects
 
 1. **Travel Reservation System – Hotel & Flight Booking Platform**  
-   Full-stack travel booking app with client + admin panels. Users can search/browse hotels/flights, make reservations, view history. Admins manage users, hotels, flights, reservations. Secure JWT auth + role-based access (CLIENT vs ADMIN).  
+   Full-stack travel booking application with client + admin panels. Users search/browse hotels & flights, make reservations, view history. Admins manage users, hotels, flights, and all reservations. Secure JWT authentication + role-based access (CLIENT vs ADMIN).  
    - **Tech**: Spring Boot, Spring Security + JWT, Angular, TypeScript, PostgreSQL/MySQL  
-   - **Repo**: [https://github.com/seydnaalyeby/travel-reservation-system](https://github.com/seydnaalyeby/travel-reservation-system)  
-   - **Screenshots**: included in repo README
+   - **Repo**: https://github.com/seydnaalyeby/travel-reservation-system  
+   - **Screenshots & Details**: Included in repo README
 
-2. **Task Manager API + React Dashboard** (or your next Django project)  
-   Full CRUD API with user auth (JWT) + interactive React frontend (drag & drop, status tracking).  
-   - **Tech**: Django, DRF, React, PostgreSQL  
+2. **E-commerce Admin Dashboard + Backend** (placeholder for next project)  
+   Product management API, orders, users, secure admin panel with Angular frontend.  
+   - **Tech**: Spring Boot + Angular  
    - **Repo**: [add link when ready]  
    - **Live**: [add if deployed]
 
-3. **E-commerce Backend with Angular Frontend** (or another project)  
-   Product catalog API, cart/orders, secure checkout stub + Angular storefront/admin.  
-   - **Tech**: Django/DRF or Spring Boot + Angular  
+3. **Task / Project Management Tool** (placeholder)  
+   CRUD API for tasks/projects, user roles, dashboard with charts.  
+   - **Tech**: Spring Boot + Angular  
    - **Repo**: [add link when ready]
 
-(Add more projects as you complete them. 3–5 strong projects with live links or screenshots = very attractive for clients.)
+(Add 1–2 more Spring Boot + Angular projects as you build them. 3–5 strong ones with screenshots/live links = very attractive for clients.)
 
 ### 📫 Contact & Availability
-- **Email**: seydnaalyeby@gmail.com (fast reply)  
-- **GitHub**: [https://github.com/seydnaalyeby](https://github.com/seydnaalyeby)  
-- **Available for**: Fullstack projects, Spring Boot / Django backends, Angular / React frontends, Flutter mobile, API development, bug fixes, travel/booking/e-commerce systems
+- **Email**: seydnaalyeby@gmail.com (fast response)  
+- **GitHub**: https://github.com/seydnaalyeby  
+- **Available for**:  
+  - Spring Boot backends (APIs, auth, admin panels)  
+  - Angular frontends (dashboards, e-commerce, SaaS)  
+  - Fullstack Java/Angular projects  
+  - Bug fixes, feature additions, migrations  
+  - Travel/booking, e-commerce, enterprise systems
 
-Let's build something great together! 🚀
+Let's build something reliable and scalable together! 🚀
 
-Thanks for visiting — feel free to ⭐ this repo!
+Feel free to ⭐ this repo if you like my work.
