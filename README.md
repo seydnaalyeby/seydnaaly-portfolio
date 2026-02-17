@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 Fullstack developer specializing in **Java + Spring Boot** backends and **Angular** frontends.  
-I build secure, scalable REST APIs, authentication systems (JWT/OAuth), role-based dashboards, and complete enterprise-grade applications with clean, well-documented code.  
+I build secure, scalable REST APIs, authentication systems (JWT), role-based dashboards, attendance/payroll tools, booking platforms, and complete enterprise-grade applications with clean, well-documented code.  
 Fast delivery, good communication, attention to detail.
 
 📍 Based in Nouakchott, Mauritania (GMT timezone – perfect overlap with Europe & US clients)
@@ -33,7 +33,7 @@ Fast delivery, good communication, attention to detail.
 ### 🛠️ Skills
 - **Backend**: Java, Spring Boot, Spring Security + JWT, Spring Data JPA, REST API design, PostgreSQL/MySQL
 - **Frontend**: Angular (preferred), TypeScript, RxJS, Reactive Forms, Angular Material, Tailwind CSS
-- **Other**: Git/GitHub, Docker basics, Deployment (Render/Railway/Heroku/AWS), Testing (JUnit), Clean Architecture
+- **Other**: Git/GitHub, Docker basics, Deployment (Render/Railway/Heroku), Testing (JUnit), Clean Architecture
 
 ### 📂 Featured Projects
 
@@ -43,28 +43,29 @@ Fast delivery, good communication, attention to detail.
    - **Repo**: https://github.com/seydnaalyeby/travel-reservation-system  
    - **Screenshots & Details**: Included in repo README
 
-2. **E-commerce Admin Dashboard + Backend** (placeholder for next project)  
+2. **EquipePay – Worker Attendance & Payroll Manager**  
+   Full-stack workforce management tool for businesses. Admins add/edit workers, mark daily attendance (Present/Absent), auto-calculate salaries (daily rate = monthly / 30), view real-time earnings, generate date-range reports + CSV export. Modern dashboard with KPI cards, weekly charts, and quick actions.  
+   - **Tech**: Spring Boot, Spring Security + JWT, Angular, TypeScript, PostgreSQL  
+   - **Repo**: https://github.com/seydnaalyeby/stafftrack-payroll-manager  
+   - **Screenshots & Details**: Included in repo README (dashboard, attendance marking, reports)
+
+3. **E-commerce Admin Dashboard + Backend** (in progress / next project)  
    Product management API, orders, users, secure admin panel with Angular frontend.  
    - **Tech**: Spring Boot + Angular  
    - **Repo**: [add link when ready]  
    - **Live**: [add if deployed]
 
-3. **Task / Project Management Tool** (placeholder)  
-   CRUD API for tasks/projects, user roles, dashboard with charts.  
-   - **Tech**: Spring Boot + Angular  
-   - **Repo**: [add link when ready]
-
-(Add 1–2 more Spring Boot + Angular projects as you build them. 3–5 strong ones with screenshots/live links = very attractive for clients.)
+(Add more Spring Boot + Angular projects as you build them — aim for 3–5 strong ones with screenshots/live links for maximum client appeal.)
 
 ### 📫 Contact & Availability
 - **Email**: seydnaalyeby@gmail.com (fast response)  
 - **GitHub**: https://github.com/seydnaalyeby  
 - **Available for**:  
-  - Spring Boot backends (APIs, auth, admin panels)  
-  - Angular frontends (dashboards, e-commerce, SaaS)  
+  - Spring Boot backends (APIs, auth, admin panels, payroll/attendance systems)  
+  - Angular frontends (dashboards, booking platforms, e-commerce, SaaS)  
   - Fullstack Java/Angular projects  
   - Bug fixes, feature additions, migrations  
-  - Travel/booking, e-commerce, enterprise systems
+  - Travel/booking, workforce management, e-commerce, enterprise systems
 
 Let's build something reliable and scalable together! 🚀
 
